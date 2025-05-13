@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Olá, eu sou Sávio Daniel Matos Marinho</h1>
 
-<!--
-**SavioDaniel/SavioDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Desenvolvedor Back-End com experiência em <strong>Python, Java, C, Kotlin</strong>, <br />
+conhecimento em Robótica e desenvolvimento para Android. 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Estatísticas
+
+<div align="center">
+
+![Estatísticas do GitHub de SavioDaniel](https://github-readme-stats.vercel.app/api?username=SavioDaniel&show_icons=true&theme=tokyonight&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SavioDaniel&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🛠️ Tecnologias que uso
+
+- 💻 **Linguagens**: Python, Java, C, Kotlin
+- 📱 **Mobile**: Android com Kotlin
+- 🤖 **Robótica**: Arduino, Raspberry Pi, sensores e automação
+- 🛠️ **Outros**: Git, GitHub, UART, PWM, I2C, comunicação serial
+
+---
+
+## 📬 Contato e Redes Sociais
+
+<div align="center">
+
+📧 E-mail: [saviodanielmatos@gmail.com](mailto:saviodanielmatos@gmail.com)  
+📱 Telefone: (99) 98100-6027  
+🐱 GitHub: [github.com/SavioDaniel](https://github.com/SavioDaniel)  
+💼 [LinkedIn](https://www.linkedin.com/in/savio-daniel-marinho)  
+📸 [Instagram](https://www.instagram.com/savio.daniel.matos/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SavioDaniel&color=blue" alt="Visualizações de perfil"/>
+</div>
