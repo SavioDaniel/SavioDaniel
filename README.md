@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Olá, eu sou Sávio Daniel Matos Marinho</h1>
 
 <p align="center">
-Desenvolvedor Back-End com experiência em <strong>Python, Java, C, Kotlin</strong>, <br />
+Desenvolvedor Back-End com experiência em <strong>Python, Java, C, <br />
 conhecimento em Robótica e desenvolvimento para Android. 
 </p>
 
