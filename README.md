@@ -1,12 +1,13 @@
 ### 👋 Saudações / Greetings  
 
-⚙️ Atualmente aprendendo **C** para desenvolvimento de **sistemas embarcados**  
-🔬 Tenho experiência prática com **Arduino**, **ESP32** e **Raspberry Pi**  
-💾 Interessado em **Assembly** e no funcionamento interno do **hardware**  
-👯 Buscando colaborar em projetos de **automação**, **IoT** e **baixo nível**  
-☁️ Estudo também **Programação em Nuvem**, **Python** e **MySQL**  
-📫 Contato: **saviodanielmatos@gmail.com**  
-⚡ Curiosidade: comecei sem gostar de programação (em 2021), mas hoje é minha maior paixão ❤️  
+⚙️ Currently learning C for embedded systems development
+🔬 Hands-on experience with Arduino, ESP32, and Raspberry Pi
+💾 Interested in Assembly and the inner workings of hardware
+👯 Looking to collaborate on automation, IoT, and low-level projects
+☁️ Also studying Cloud Programming, Python, and MySQL
+📫 Contact: saviodanielmatos@gmail.com
+
+⚡ Fun fact: I didn’t like programming at first (back in 2021), but now it’s my biggest passion ❤️  
 
 ---
 
