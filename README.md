@@ -1,12 +1,11 @@
-### 👋 Saudações / Greetings  
+### 👋 Greetings!
 
-⚙️ Currently learning C for embedded systems development
-🔬 Hands-on experience with Arduino, ESP32, and Raspberry Pi
-💾 Interested in Assembly and the inner workings of hardware
-👯 Looking to collaborate on automation, IoT, and low-level projects
-☁️ Also studying Cloud Programming, Python, and MySQL
-📫 Contact: saviodanielmatos@gmail.com
-
+⚙️ Currently learning **C** for **embedded systems development**  
+🔬 Hands-on experience with **Arduino**, **ESP32**, and **Raspberry Pi**  
+💾 Passionate about **Assembly** and understanding how **hardware** works at a low level  
+👯 Open to collaborating on **automation**, **IoT**, and **low-level programming** projects  
+☁️ Also studying **Cloud Programming**, **Python**, and **MySQL**  
+📫 Contact: **saviodanielmatos@gmail.com**  
 ⚡ Fun fact: I didn’t like programming at first (back in 2021), but now it’s my biggest passion ❤️  
 
 ---
@@ -49,5 +48,5 @@
 ---
 
 <div align="center">
-  <i>“Hardware e software só fazem sentido quando trabalham juntos.”</i>
+  <i>“Hardware and software only make sense when they work together.”</i>
 </div>
