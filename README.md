@@ -1,12 +1,13 @@
 ### 👋 Greetings!
 
-1. Currently learning Java for embedded systems development  
-2. Hands-on experience with Arduino, ESP32, and Raspberry Pi  
-3. Passionate about Assembly and understanding how hardware works at a low level  
-4. Open to collaborating on automation, IoT, and low-level programming projects  
-5. Also studying Cloud Programming, Python, and MySQL  
-6. Contact: saviodanielmatos@gmail.com  
-7. Fun fact: I didn't like programming at first (back in 2021), but now it's my biggest passion
+1. 📚 Currently learning Java for embedded systems development  
+2. 🔧 Hands-on experience with Arduino, ESP32, and Raspberry Pi  
+3. 💻 Passionate about Assembly and understanding how hardware works at a low level  
+4. 🤝 Open to collaborating on automation, IoT, and low-level programming projects  
+5. ☁️ Also studying Cloud Programming, Python, and MySQL  
+6. 📧 Contact: saviodanielmatos@gmail.com  
+7. 🎯 Fun fact: I didn't like programming at first (back in 2021), but now it's my biggest passion
+
 
 ---
 
