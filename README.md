@@ -1,13 +1,13 @@
 ### 👋 Greetings!
 
-1. 📚 Currently learning Java for embedded systems development  
-2. 🔧 Hands-on experience with Arduino, ESP32, and Raspberry Pi  
-3. 💻 Passionate about Assembly and understanding how hardware works at a low level  
-4. 🤝 Open to collaborating on automation, IoT, and low-level programming projects  
-5. ☁️ Also studying Cloud Programming, Python, and MySQL  
-6. 📧 Contact: saviodanielmatos@gmail.com  
-7. 🎯 Fun fact: I didn't like programming at first (back in 2021), but now it's my biggest passion
-
+1. ☕ Back-End Developer focused on Java and Object-Oriented Programming  
+2. 🧠 Studying software architecture, REST APIs and backend application development  
+3. 💾 Experience working with MySQL databases and data persistence concepts  
+4. 🧩 Passionate about understanding how systems work from low-level programming to server-side applications  
+5. 🚀 Currently improving my skills in Java, Python and Cloud-based backend development  
+6. 🤝 Open to collaborating on backend, APIs and system development projects  
+7. 📧 Contact: saviodanielmatos@gmail.com  
+8. 🎯 Fun fact: I didn't like programming at first (back in 2021), but today it became my biggest passion
 
 ---
 
@@ -21,7 +21,7 @@
   <a href="mailto:saviodanielmatos@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/savio-daniel-matos-marinho-746a94210/" target="_blank">
+  <a href="https://www.linkedin.com/in/savio-daniel-matos-marinho-746a94210" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
@@ -38,16 +38,21 @@
 ---
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+
+  <img align="center" alt="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
   <img align="center" alt="MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Raspberry" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-  <img align="center" alt="Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  
+  <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  
   <img align="center" alt="Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  
+  <img align="center" alt="C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+
 </div>
 
 ---
 
 <div align="center">
-  <i>“Hardware and software only make sense when they work together.”</i>
+  <i>“Good backend systems are invisible — they just work.”</i>
 </div>
