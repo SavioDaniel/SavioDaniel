@@ -7,7 +7,7 @@
 5. 🚀 Currently improving my skills in Java, Python and Cloud-based backend development  
 6. 🤝 Open to collaborating on backend, APIs and system development projects  
 7. 📧 Contact: saviodanielmatos@gmail.com  
-8. 🎯 Fun fact: I didn't like programming at first (back in 2021), but today it became my biggest passion
+8. 🎯 Fun fact: I didn't like programming at first (back in 2023), but today it became my biggest passion
 
 ---
 
